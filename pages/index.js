@@ -66,7 +66,7 @@ export default function Home() {
     //   </footer>
     // </div>
     <>
-      <h1 className="text-6xl text-center font-black">sadhkasjdh</h1> <br/>
+      <h1 className="text-6xl text-center font-black">COMING SOOONNNNNNNNNNN</h1> <br/>
       <h1 className="text-center text-3xl font-black py-24">TESTdddING!!!!</h1>
     </>
   )
